@@ -1,0 +1,6 @@
+rootProject.name = 'springboot-multi-pj'
+include 'kozuke-common'
+include 'kozuke-domain'
+include 'kozuke-web-base'
+include 'kozuke-web'
+
